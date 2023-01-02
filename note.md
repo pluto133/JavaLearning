@@ -3,6 +3,9 @@
 
 <img src="https://www.runoob.com/wp-content/uploads/2013/12/20210105-java-object-1.png" width="60%">
 
+
+<img src="https://www.runoob.com/wp-content/uploads/2013/12/20210105-java-object-1.png" width = 30% height = 30% />
+
 ```java
 public class Dog {
     String breed;
