@@ -1,4 +1,8 @@
-![Java 中的类](https://www.runoob.com/wp-content/uploads/2013/12/20210105-java-object-1.png#pic_center, "50%")
+<!--  ![Java 中的类](https://www.runoob.com/wp-content/uploads/2013/12/20210105-java-object-1.png)
+-->
+
+<img src="https://www.runoob.com/wp-content/uploads/2013/12/20210105-java-object-1.png" width="60%">
+
 ```java
 public class Dog {
     String breed;
