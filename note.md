@@ -1,8 +1,8 @@
 <!--  ![Java 中的类](https://www.runoob.com/wp-content/uploads/2013/12/20210105-java-object-1.png)
 <img src="https://www.runoob.com/wp-content/uploads/2013/12/20210105-java-object-1.png" width="60%">
 -->
-https://www.runoob.com/java/java-object-classes.html
-
+https://www.runoob.com/java/java-object-classes.html<br/>
+https://netfreeman.com/markdown/md-image.html
 
 **创建类  实例/对象 instance/object**
 <br/>
