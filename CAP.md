@@ -33,11 +33,16 @@ ACID
 
 是数据库管理系统为了保证事务的正确性而提出来的一个理论，包含4个约束
 
-Atomicity，原子性
-Consistency，一致性
-Isolation，隔离性
-Durability，持久性
+- Atomicity，原子性
+
+- Consistency，一致性
+
+- Isolation，隔离性
+
+- Durability，持久性
+
 ACID中的C是指数据库的数据完整性， CAP中的C是指分布式节点中的数据一致性
+
 
 
 
